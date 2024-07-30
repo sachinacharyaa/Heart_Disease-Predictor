@@ -1,5 +1,5 @@
 # Heart Disease Predictor using Machine Learning
-This project focuses on predicting cardiovascular diseases using advanced machine learning algorithms. 
+This project focuses on predicting heart diseases using advanced machine-learning algorithms. 
 It aims to provide early warnings and insights to help healthcare professionals make informed decisions
 for better patient outcomes
 
